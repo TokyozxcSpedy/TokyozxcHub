@@ -1,0 +1,88 @@
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+
+local PhantomForcesWindow = Library:NewWindow("Tokyozxc hub ver.23'')
+
+local KillingCheats = PhantomForcesWindow:NewSection("Movesets")
+
+KillingCheats:CreateButton("Jester (Saitama)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Reapvitalized/TSB/refs/heads/main/ARCAURA.lua"))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("DIO (HeroHunter)", function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Medley-Taboritsky/RobloxScripting/refs/heads/main/DIO_Garou_TSB"))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Reaper v2 (metalbat)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Reapvitalized/TSB/main/APOPHENIA.lua"))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Jun (Saitama)", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kenjihin69/Kenjihin69/refs/heads/main/Tp%20exploit%20saitama%20to%20jun'))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Sukuna(saitama)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zyrask/Nexus-Base/main/atomic-blademaster%20to%20sukuna"))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Sonic(saitama)", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/7V1mUBtQ"))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Gojo(Saitama)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/main/Latest.lua"))()
+print("HI")
+end)
+
+
+local KillingCheats = PhantomForcesWindow:NewSection("Credits")
+
+KillingCheats:CreateButton("Credits to speedy on discord", function()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Tokyozxc/mimic", function()
+print("HI")
+end)
+
+local KillingCheats = PhantomForcesWindow:NewSection("Movesets ver.1.1")
+
+KillingCheats:CreateButton("arcaura(herohunter)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Reapvitalized/TSB/refs/heads/main/ARCAURA.lua"))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Deku(saitama)", function()
+print("HI")
+loadstring(game:HttpGet("https://pastefy.app/MNg2zcxz/raw"))()
+end)
+
+KillingCheats:CreateButton("Kung fu Panda (saitama)", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/DqXUTANt"))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Hakari(saitama)", function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-Hero-to-True-Nosakatan-18742"))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Kyra Gojo(saitama)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gokou300/Gokou300/main/Kyra%20Gojo%20Tsb%20Bypassed"))()
+print("HI")
+end)
+
+KillingCheats:CreateButton("Toji(saitama)", function()
+loadstring(game:HttpGet('https://pastebin.com/raw/VQnyWP5D'))()
+print("HI")
+end)
+
+local KillingCheats = PhantomForcesWindow:NewSection("bug fixes")
+
+KillingCheats:CreateButton("fixed dio moveset", function()
+print("HI")
+end)
